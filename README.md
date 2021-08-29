@@ -1,5 +1,5 @@
 # WebCrawler
-## Programa que extrai vagas de empregos de site.
+## Programa que extrai vagas de empregos em site.
 O site usado como exemplo foi o [Recruta Simples](https://www.recrutasimples.com.br/)
 
 WebCrawler é um sistema (bot) utilizado para extrair informações dos websites disponíveis na World Wide Web.
