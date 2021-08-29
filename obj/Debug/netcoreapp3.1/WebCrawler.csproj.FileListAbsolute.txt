@@ -1,0 +1,15 @@
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\WebCrawler.exe
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\WebCrawler.deps.json
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\WebCrawler.runtimeconfig.json
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\WebCrawler.runtimeconfig.dev.json
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\WebCrawler.dll
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\WebCrawler.pdb
+D:\CURSOS\WebCrawler\WebCrawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.csproj.AssemblyReference.cache
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.AssemblyInfoInputs.cache
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.AssemblyInfo.cs
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.csproj.CoreCompileInputs.cache
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.csproj.CopyComplete
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.dll
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.pdb
+D:\CURSOS\WebCrawler\WebCrawler\obj\Debug\netcoreapp3.1\WebCrawler.genruntimeconfig.cache
