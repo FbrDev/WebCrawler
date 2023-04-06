@@ -32,4 +32,4 @@ As principais tecnologias utilizadas para desenvolver o projeto:
 
 
 
-**Made with ❤️ by Fabrício Pereira 👋**
+**Desenvolvido com ❤️ por Fabrício Pereira 👋**
